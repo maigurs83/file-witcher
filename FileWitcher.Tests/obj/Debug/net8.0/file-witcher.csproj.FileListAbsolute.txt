@@ -1,0 +1,6 @@
+C:\Users\alvis\AGA_Solutions\Logistics\file-witcher\obj\Debug\net8.0\file-witcher.csproj.AssemblyReference.cache
+C:\Users\alvis\AGA_Solutions\Logistics\file-witcher\obj\Debug\net8.0\file-witcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvis\AGA_Solutions\Logistics\file-witcher\obj\Debug\net8.0\file-witcher.AssemblyInfoInputs.cache
+C:\Users\alvis\AGA_Solutions\Logistics\file-witcher\obj\Debug\net8.0\file-witcher.AssemblyInfo.cs
+C:\Users\alvis\AGA_Solutions\Logistics\file-witcher\obj\Debug\net8.0\file-witcher.csproj.CoreCompileInputs.cache
+C:\Users\alvis\AGA_Solutions\Logistics\file-witcher\obj\Debug\net8.0\file-witcher.sourcelink.json

@@ -36,9 +36,9 @@ namespace FileWitcher
                 var boxes = asnParser.ParseAsnFile(e.FullPath);
                 Console.WriteLine($"LogLine: File {e.Name} found {boxes} boxes");
             }
-            catch(ErrorEventArgs er)
+            catch(Exception ex)
             {
-                Console.WriteLine($"ErrorLine: File {e.Name} caused an error");
+                Console.WriteLine($"ErrorLine: File {e.Name} caused an error ({ex.Message})");
             }
         }
 
