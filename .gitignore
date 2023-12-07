@@ -1,0 +1,4 @@
+./FileWitcher/bin/*
+./FileWitcher/obj/*
+./FileWitcher.Tests/bin/*
+./FileWitcher.Tests/obj/*
